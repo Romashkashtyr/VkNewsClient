@@ -18,6 +18,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.sumin.vknewsclient.R
 
+@Preview
 @Composable
 fun PostCard() {
     Card {
